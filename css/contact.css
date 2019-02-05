@@ -24,12 +24,7 @@ nav li {
   font-size: 15px;
   margin: 25px;
 }
-.jumbotron {
-  background-image: url('../img/hero.jpg');
-  background-size: cover;
-  background-position: center;
-  height: 450px;
-}
+
 
 li a, .jumbotron button {
   border: 1px solid #5c433f;
@@ -42,34 +37,12 @@ a :hover {
   text-decoration: none;
 }
 
-nav {
-  top: 20px;
+.media-body{
+  padding: 30px;
 }
 
-.jumbotron h2 {
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 300;
-  color: #fff;
-}
-
-.featured {
-  margin-bottom: 60px;
-}
-
-.product {
-  background-color: #eeddcd;
-  border-radius: 5%;
-  border: 5px solid rgb(252,252,252);
-}
-
-.img_box {
-  margin: 10px 0px;
-}
-
-aside a {
-  background-color: #eeddcd;
-  padding-top: 20px;
-  max-height: 100%;
+.drimage{
+  width: 200px;
 }
 
 footer {
